@@ -1,4 +1,4 @@
-print("test github")
-print("hello")
-print("Quan")
+https://jhui.github.io/2017/03/06/CUDA/
+https://nichijou.co/
+https://docs.nvidia.com/cuda/
 
